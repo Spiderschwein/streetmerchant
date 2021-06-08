@@ -166,6 +166,7 @@ export type Model =
   | 'strix white'
   | 'taichi'
   | 'taichi x oc'
+  | 'toxic'
   | 'trinity oc'
   | 'trinity'
   | 'tuf oc'

@@ -227,6 +227,7 @@ Used with the `SHOW_ONLY_BRANDS` and `SHOW_ONLY_MODELS` variables.
 | `nvidia` | `founders edition` |
 | `palit` | `gamerock oc`, `gaming pro`, `gaming pro oc` |
 | `pny` | `dual fan`, `xlr8 epic x`, `xlr8 revel`, `xlr8 uprising` |
+| `sapphire` | `toxic` |
 | `sony` | `ps5 console`, `ps5 digital` |
 | `xfx` | `merc`, `amd reference` |
 | `zotac` | `amp holo`, `amp extreme holo`, `amp white`, `trinity`, `trinity oc`, `twin edge`, `twin edge oc`, `twin edge oc white` |
